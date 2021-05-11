@@ -1,0 +1,14 @@
+{
+  "name": "slide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slide.js",
+  "scripts": {
+    "run": "node main.js",
+    "test": "node test.js",
+    "lint": "npx eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
